@@ -137,8 +137,10 @@ main section{
 }
 
 /* resume section styles */
+
 .resume-one{
-  display: flex;
+   
+   display: flex;
   gap: 24px;
 }
 .experience-sub-title{
